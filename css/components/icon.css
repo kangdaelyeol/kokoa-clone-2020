@@ -1,0 +1,28 @@
+.icons-column{
+    display: flex;
+    justify-content: flex-start;
+    align-items: flex-start;
+}
+
+.icons-column__icon{
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    width: 25%;
+    height: 130px;
+    color:rgba(0,0,0,0.7);
+}
+
+.icons-column__icon i{
+    font-size:30px;
+    margin-bottom: 20px;
+}
+
+.icons-column__icon span{
+    font-size: 20px;
+    text-align: center;
+}
+
+.icons-alert{
+    position: relative;
+}
