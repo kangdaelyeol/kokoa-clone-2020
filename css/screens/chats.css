@@ -138,8 +138,8 @@
     padding:5px 10px;
     border:1px solid rgba(0, 0, 0, 0.15);
     border-radius: 20px;
-    transition:all 0.1s linear;
-    transition-delay: .3s;
+    transition:all .1s linear;
+    
 }
 
 
